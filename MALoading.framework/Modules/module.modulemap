@@ -1,0 +1,6 @@
+framework module MALoading {
+  umbrella header "MALoading.h"
+
+  export *
+  module * { export * }
+}
